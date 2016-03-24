@@ -1,2 +1,2 @@
-# sill.vim
-Syntax highlighting for the SILL language.
+# krill.vim
+Syntax highlighting for the Krill language.
